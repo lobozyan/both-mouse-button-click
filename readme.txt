@@ -13,3 +13,5 @@ and
 </script>
 
 in header of your page.
+
+Insert any actions instead "// any actions".
