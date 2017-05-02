@@ -1,2 +1,2 @@
 # both-mouse-button-click
-Doing any actions on right and left mouse buttons click
+Doing any javascript actions on synchronous right and left mouse buttons click
